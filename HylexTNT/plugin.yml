@@ -1,0 +1,6 @@
+name: FoxyTNT
+main: com.foxy.tnt.Main
+version: 1.0
+description: Automatically ignites TNT after place
+author: Foxy
+prefix: TNT

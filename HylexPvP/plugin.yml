@@ -1,0 +1,11 @@
+name: PvP
+main: com.foxy.hylexpvp.Main
+version: 1.0
+author: Foxy
+
+commands :
+ stats:
+ ps:
+ add:
+ trash:
+ top:
